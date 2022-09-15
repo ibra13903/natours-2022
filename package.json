@@ -1,0 +1,8 @@
+{
+  "name": "natour-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ibra13903/natours-2022.git",
+  "author": "IBRAHIM LAACHIR KALLOUH <ibrahimkallouh@gmail.com>",
+  "license": "MIT"
+}
